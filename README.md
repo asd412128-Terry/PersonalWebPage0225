@@ -3,6 +3,8 @@
 ## Overview
 Today, we developed and deployed a modern, premium personal webpage for **Xin Hong Chen**. The project involved creating a high-quality frontend and setting up a robust version control workflow with GitHub.
 
+**Live Demo:** [https://huanchen1107.github.io/0225DRL_DIC1/](https://huanchen1107.github.io/0225DRL_DIC1/)
+
 ![Homepage Screenshot](homepage.png)
 
 ## Completed Tasks
@@ -15,12 +17,12 @@ Today, we developed and deployed a modern, premium personal webpage for **Xin Ho
 ### 2. Git & GitHub Integration
 - **Local Initialization**: Initialized a new Git repository in the `L1-PersonalPage` directory.
 - **Privacy Protection**: Identified and resolved a GitHub push rejection caused by email privacy settings. 
-- **Successful Deployment**: Pushed the entire codebase to the remote repository.
+- **Noreply Configuration**: Configured the project to use the GitHub-provided noreply email (`16698007+huanchen1107@users.noreply.github.com`) to ensure privacy without blocking deployments.
+- **Successful Deployment**: Pushed the entire codebase to the remote repository: [https://github.com/huanchen1107/0225DRL_DIC1.git](https://github.com/huanchen1107/0225DRL_DIC1.git).
 
 ## File Structure
 - `index.html`: Core structure and content.
 - `style.css`: Visual design and animations.
-- `homepage.png`: Screenshot of the landing page.
 - `README.md`: This project documentation.
 
 ## Future Recommendations
